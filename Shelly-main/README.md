@@ -1,4 +1,6 @@
-# Shelly
+# Shelly 
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/python.svg" alt="python" width="40" height="40"/>
 
 **Automatic `Reverse Shell` Generator**
 
@@ -17,7 +19,7 @@ root@kali:~# shelly eth0 443 bash
 - <kbd>Download / Install</kbd>
 
 ```cmd
-root@kali:~# wget -q "https://raw.githubusercontent.com/d4t4s3c/Shelly/main/shelly.sh" -O /usr/bin/shelly
+root@kali:~# wget -q "https://raw.githubusercontent.com/kal1gh0st/Python-pty-shells/Shelly-main/shelly.sh" -O /usr/bin/shelly
 root@kali:~# chmod +x /usr/bin/shelly
 ```
 
