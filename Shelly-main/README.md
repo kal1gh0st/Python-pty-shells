@@ -1,7 +1,7 @@
 # Shelly 
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" alt="python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
 </p>
 
 **Automatic `Reverse Shell` Generator**
