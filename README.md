@@ -1,6 +1,9 @@
 python-pty-shells
 =================
-![immagine](https://user-images.githubusercontent.com/56889513/117022833-d926d600-acf8-11eb-8610-bf03740d7e75.png)
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash.svg" alt="bash" width="70" height="70"/>
+    </p>
 
 Python PTY backdoors - full PTY or nothing!
 
