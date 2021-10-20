@@ -2,8 +2,9 @@ python-pty-shells
 =================
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash.svg" alt="bash" width="70" height="70"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="70" height="70"/>
     </p>
+
 
 Python PTY backdoors - full PTY or nothing!
 
